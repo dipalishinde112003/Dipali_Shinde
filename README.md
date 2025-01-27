@@ -37,14 +37,3 @@ This repository contains the implementation of a **Lookalike Model** that recomm
 
 ---
 
-## How to Run the Script
-
-### Prerequisites
-- Python 3.x
-- Required Python libraries:
-  - `pandas`
-  - `scikit-learn`
-  
-To install the necessary libraries, run:
-```bash
-pip install pandas scikit-learn
